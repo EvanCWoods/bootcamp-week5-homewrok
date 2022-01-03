@@ -1,0 +1,15 @@
+* Current day is displayed
+
+* filtering the time of day:
+    - get current time,
+    - if time > time block:
+        - red
+    - else if time == time block:
+        - yellow
+    - else:
+        - green
+
+* Clickasble time blocks to enter events
+
+* Save button for time block:
+    - the time block maintanins its event
