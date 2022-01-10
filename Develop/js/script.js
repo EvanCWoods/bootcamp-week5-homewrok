@@ -4,7 +4,6 @@ $("#currentDay").append(currentDay);
 
 // Get the current time to compare to the calendar times
 var currentHour = new Date().getHours();
-console.log(currentHour);
 
 
 // Function to set the color of the input field based on the current time
@@ -188,5 +187,5 @@ function main() {
     storeTimeSlot();
 }
 
-// Runn the app
+// Run the app
 main();
