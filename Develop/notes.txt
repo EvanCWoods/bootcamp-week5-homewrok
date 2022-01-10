@@ -9,7 +9,7 @@
     - else:
         - green
 
-* Clickasble time blocks to enter events
+* Clickable time blocks to enter events
 
 * Save button for time block:
-    - the time block maintanins its event
+    - the time block maintains its event
