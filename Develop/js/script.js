@@ -3,8 +3,7 @@ var currentDay = moment().format("dddd LL");
 $("#currentDay").append(currentDay);
 
 // Get the current time to compare to the calendar times
-var currentHour = new Date().getHours();
-
+var currentHour = moment().format("HH");
 
 // Function to set the color of the input field based on the current time
 function setColor() {
